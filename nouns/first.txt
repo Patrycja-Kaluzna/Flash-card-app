@@ -1,0 +1,3 @@
+der_Apfel_jabłko
+die_Orange_pomarańcza
+die_Banane_banan
